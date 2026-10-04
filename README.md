@@ -64,7 +64,7 @@ Open the cloned project folder and launch `index.html` in your web browser. An i
 
 **Shipra Sonal**
 
-[GitHub](https://github.com/shiprasonal) · [LinkedIn](www.linkedin.com/in/shipra-sonal-554a50258)
+[GitHub](https://github.com/shiprasonal) · [LinkedIn](https://www.linkedin.com/in/shipra-sonal-554a50258)
 
 ---
 
